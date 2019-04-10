@@ -1,0 +1,3 @@
+rootProject.name = 'reactnapp'
+
+include ':app'
